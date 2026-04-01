@@ -1,3 +1,0 @@
-[submodule "submodule_deletion_child"]
-	path = submodule_deletion_child
-	url = https://github.com/mcarans/submodule_deletion_child.git
